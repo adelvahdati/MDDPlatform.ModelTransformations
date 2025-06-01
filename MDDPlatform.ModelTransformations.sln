@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDDPlatform.ModelTransformations.Api", "MDDPlatform.ModelTransformations.Api\MDDPlatform.ModelTransformations.Api.csproj", "{EE272EC8-8187-04E3-862F-541C6635DC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDDPlatform.ModelTransformations.Application", "MDDPlatform.ModelTransformations.Application\MDDPlatform.ModelTransformations.Application.csproj", "{041B011C-01BA-872E-D8DD-D8C3D295A471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDDPlatform.ModelTransformations.Core", "MDDPlatform.ModelTransformations.Core\MDDPlatform.ModelTransformations.Core.csproj", "{972390B2-859F-6701-4EB9-55B85B71355B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDDPlatform.ModelTransformations.Infrastructure", "MDDPlatform.ModelTransformations.Infrastructure\MDDPlatform.ModelTransformations.Infrastructure.csproj", "{2A45D7BC-7AD9-B3E6-B9CF-446A492AEF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDDPlatform.ModelTransformations.Services", "MDDPlatform.ModelTransformations.Services\MDDPlatform.ModelTransformations.Services.csproj", "{933FE070-EA68-AE20-9006-743A78766785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE272EC8-8187-04E3-862F-541C6635DC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE272EC8-8187-04E3-862F-541C6635DC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE272EC8-8187-04E3-862F-541C6635DC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE272EC8-8187-04E3-862F-541C6635DC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041B011C-01BA-872E-D8DD-D8C3D295A471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041B011C-01BA-872E-D8DD-D8C3D295A471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041B011C-01BA-872E-D8DD-D8C3D295A471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041B011C-01BA-872E-D8DD-D8C3D295A471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972390B2-859F-6701-4EB9-55B85B71355B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972390B2-859F-6701-4EB9-55B85B71355B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972390B2-859F-6701-4EB9-55B85B71355B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972390B2-859F-6701-4EB9-55B85B71355B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A45D7BC-7AD9-B3E6-B9CF-446A492AEF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A45D7BC-7AD9-B3E6-B9CF-446A492AEF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A45D7BC-7AD9-B3E6-B9CF-446A492AEF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A45D7BC-7AD9-B3E6-B9CF-446A492AEF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933FE070-EA68-AE20-9006-743A78766785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933FE070-EA68-AE20-9006-743A78766785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933FE070-EA68-AE20-9006-743A78766785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933FE070-EA68-AE20-9006-743A78766785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C42333A-2601-4D87-8A5B-646479251819}
+	EndGlobalSection
+EndGlobal
